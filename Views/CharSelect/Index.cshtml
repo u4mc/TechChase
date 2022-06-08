@@ -5,3 +5,10 @@
 
 <h1>CharSelect</h1>
 
+@{
+    foreach(Character character in ViewBag.charlist)
+    {
+        @character.Name;
+        @character.Image;
+    }
+}

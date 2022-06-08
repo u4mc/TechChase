@@ -1,4 +1,4 @@
-﻿namespace TechChaser.Models
+﻿namespace TechChase.Models
 {
     public class Tech
     {

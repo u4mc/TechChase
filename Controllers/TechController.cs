@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TechChase.Data;
-using TechChaser.Models;
+using TechChase.Models;
 
 namespace TechChase.Controllers
 {

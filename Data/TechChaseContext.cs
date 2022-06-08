@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using TechChaser.Models;
+using TechChase.Models;
 
 namespace TechChase.Data
 {
@@ -15,6 +15,6 @@ namespace TechChase.Data
         {
         }
 
-        public DbSet<TechChaser.Models.Tech> Tech { get; set; }
+        public DbSet<TechChase.Models.Tech> Tech { get; set; }
     }
 }
